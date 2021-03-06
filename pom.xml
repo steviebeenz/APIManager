@@ -76,11 +76,6 @@
             <version>1.9-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
-            <groupId>org.bukkit</groupId>
-            <artifactId>bukkit</artifactId>
-            <version>1.9-R0.1-SNAPSHOT</version>
-        </dependency>
     </dependencies>
 
     <repositories>
@@ -107,10 +102,6 @@
         <repository>
             <id>techcable-repo</id>
             <url>http://repo.techcable.net/content/groups/public/</url>
-        </repository>
-        <repository>
-            <id>mcstats-repo</id>
-            <url>http://repo.mcstats.org/content/groups/public/</url>
         </repository>
     </repositories>
 </project>
